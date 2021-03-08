@@ -1,1 +1,2 @@
-# speech-recog-elevator
+# SincConv-speech-recog
+Speech Recognition with SincNet Convolutional Filters
